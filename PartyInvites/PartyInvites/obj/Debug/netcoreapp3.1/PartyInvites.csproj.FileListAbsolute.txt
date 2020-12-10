@@ -35,3 +35,4 @@ C:\Users\adnan\Documents\Monash\JOB\ASP.NET CORE\Projects\ASP.NETCore\PartyInvit
 C:\Users\adnan\Documents\Monash\JOB\ASP.NET CORE\Projects\ASP.NETCore\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.pdb
 C:\Users\adnan\Documents\Monash\JOB\ASP.NET CORE\Projects\ASP.NETCore\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.genruntimeconfig.cache
 C:\Users\adnan\Documents\Monash\JOB\ASP.NET CORE\Projects\ASP.NETCore\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.csproj.CopyComplete
+C:\Users\adnan\Documents\Monash\JOB\ASP.NET CORE\Projects\ASP.NETCore\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
