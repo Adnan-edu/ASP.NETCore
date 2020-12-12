@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+jyHwh6vbcIWgYIgO+hsW35dnm6axoGr/Aqk4QlZQ2ALEp0gi/LRmgbOlL1+AaFeGttIUolWQ6jqaSkjgiZVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adnan\\Documents\\Monash\\JOB\\ASP.NET CORE\\Projects\\ASP.NETCore\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\adnan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
