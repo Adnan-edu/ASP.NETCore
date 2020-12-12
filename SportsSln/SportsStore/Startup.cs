@@ -37,6 +37,9 @@ read via the IConfiguration object.*/
                 opts.UseSqlServer(
                 Configuration["ConnectionStrings:SportsStoreConnection"]);
             });
+/*            The AddScoped method creates a service where each HTTP request gets its own repository object, which is the way that Entity
+Framework Core is typically used.*/
+            services.AddScoped<IStoreRepository, EFStoreRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
